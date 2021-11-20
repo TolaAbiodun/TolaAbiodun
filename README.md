@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate with you
 - 💬 Ask me about anything
 - 📫 How to reach me: Find social links above
-- [Youtube channel](https://www.youtube.com/channel/UCU78Ebrcy7TInk-NCheGztA)
 
 ### Connect with Me
 
