@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning to become a techpreneur
 - 👯 I’m looking to collaborate with you
 - 💬 Ask me about anything
-- 📫 How to reach me: Find social links above
+- 📫 How to reach me: Find social links below
 
 ### Connect with Me
 
