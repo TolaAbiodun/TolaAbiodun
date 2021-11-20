@@ -13,7 +13,7 @@
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![TolaAbiodun's github stats](https://github-readme-stats.vercel.app/api?username=TolaAbiodun&count_private=true&show_icons=true&theme=dracula)
-![TolaAbiodun's Top Languages](https://github-readme-stats.vercel.app/api/toplangs/?username=TolaAbiodun&layout=compact&theme=dracula)
+![TolaAbiodun's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TolaAbiodun&layout=compact&theme=dracula)
 
 <!--
 **TolaAbiodun/TolaAbiodun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
