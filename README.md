@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Tola Abiodun
 
-- 🔭 I’m currently working on projects that improves productivity
+- 🔭 I’m currently building web and mobile MVP's for startups
 - 🌱 I’m currently learning to become a techpreneur
 - 👯 I’m looking to collaborate with you
 - 💬 Ask me about anything
