@@ -10,7 +10,7 @@
 
 <!-- [![](https://vistr.dev/badge?repo=TolaAbiodun.skia-chart&corners=square)](https://github.com/TolaAbiodun/vistr.dev)-->
 [![](https://img.shields.io/badge/-@TolaAbiodun-%23181717?style=flat-square&logo=github)](https://github.com/TolaAbiodun)
-[![](https://img.shields.io/badge/-Tola%20Abiodun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adetola-abiodun/)](https://www.linkedin.com/in/adetola-abiodun/)
+[![](https://img.shields.io/badge/-Tola%20Abiodun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adetola-abiodun/)](https://www.linkedin.com/in/tolaabiodun/)
 
 ### Programming Languages and Tools
 
