@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Tola Abiodun
 
-- 🔭 I’m currently building Mobile Application (iOS and Android) MVP's for startups
+- 🔭 I’m currently building Mobile Applications (iOS and Android) MVP's for startups
 - 🌱 I’m currently learning to become a techpreneur
 - 👯 I’m looking to collaborate with you
 - 💬 Ask me about anything
